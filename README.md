@@ -2,7 +2,9 @@
 A pytorch implementation of "Deep Convolutional Generative Adversarial Networks"
 
 ## Result
-trained on part of celebA datasets (about 40k) 20 epochs
+### LSUN-conference room
+![lsun](https://github.com/minlee077/DCGAN-pytorch/blob/master/assets/conference_room)
 
-![celebA](https://github.com/minlee077/DCGAN-pytorch/blob/master/assets/celebA(40k,20eps).gif)
+### Celeba
+![celebA](https://github.com/minlee077/DCGAN-pytorch/blob/master/assets/celebA.gif)
 ![loss_plot](https://github.com/minlee077/DCGAN-pytorch/blob/master/assets/loss_plot.png)
